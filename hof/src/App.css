@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+.box{
+    border: 2px solid black;
+    color: blue;
+    text-align: center;
+}
+.lastbox{
+    border: 2px solid black;
+}
+span{
+    margin-left: 20px;
+    text-align: center;
+}
